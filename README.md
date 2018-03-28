@@ -1,6 +1,7 @@
 # TTE
 
-Translation Transcription and Evaluation (TTE) 
+Translation Transcription and Evaluation (TTE)
+(Examples in pictures below)
 of DNA, mRNA and Peptides with BLOSUM62, 
 Polarity, Weight, class, hydropathy, 
 and few extras such as matching DNA codon 
@@ -39,3 +40,8 @@ and their outstanding community!
 
 Made by Tavnos Terrence
 Copyright [2018] [Alexandre Vieira]
+
+![alt text](https://github.com/Tavnos/TTE/blob/master/predictionexample.png)
+![alt text](https://github.com/Tavnos/TTE/blob/master/predictionproduct.png)
+![alt text](https://github.com/Tavnos/TTE/blob/master/translationexample.png)
+![alt text](https://github.com/Tavnos/TTE/blob/master/translationproduct.png)
