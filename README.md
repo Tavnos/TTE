@@ -34,7 +34,8 @@ Enjoy!
 
 Big credit to everyone that provided 
 an amaizing and incomensurable ammount 
-of knowledge from Wikipedia!
+of knowledge from Wikipedia, Python3, 
+and their outstanding community!
 
 Made by Tavnos Terrence
 Copyright [2018] [Alexandre Vieira]
